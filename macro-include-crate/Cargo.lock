@@ -1,0 +1,11 @@
+[root]
+name = "macro-include-crate"
+version = "0.1.0"
+dependencies = [
+ "hola 0.1.0",
+]
+
+[[package]]
+name = "hola"
+version = "0.1.0"
+
