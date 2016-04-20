@@ -1,0 +1,7 @@
+[package]
+name = "macro-include-prelude"
+version = "0.1.0"
+authors = ["Kyle Lacy <kylewlacy@me.com>"]
+
+[dependencies]
+bonjour = {path = "lib/bonjour"}
